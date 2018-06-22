@@ -1,6 +1,6 @@
 # E-Commerce
 
-## Steps to run this website on your system-
+## prerequisite
   
 ### Create database with name shopdb
 ```sql
