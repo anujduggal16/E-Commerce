@@ -1,0 +1,17 @@
+button{
+    cursor: pointer;
+}
+body{
+    background-color:#F4F4F4 ;
+
+}
+.card-img-top {
+    max-width:50%;
+    max-height:50%;
+    object-fit: cover;
+}
+.center {
+    margin: auto;
+    width: 100%;
+    
+}
