@@ -3,6 +3,8 @@
 ## Prerequisites
   
 ### Create database with name shopdb
+#### User- root 
+#### Password- pass
 ```sql
 CREATE DATABASE shopdb;
 ```
