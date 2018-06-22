@@ -1,0 +1,8 @@
+  Steps to run this website-
+  
+1.Create database with name shopdb
+  CREATE DATABASE shopdb;
+  
+2.Run the server file(Node.js must be installed on the system)
+  Node server.js
+  
