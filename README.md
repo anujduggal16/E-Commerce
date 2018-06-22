@@ -1,11 +1,12 @@
 # E-Commerce
 
-##Steps to run this website-
+## Steps to run this website-
   
-###Create database with name shopdb
+### Create database with name shopdb
 ```sql
   CREATE DATABASE shopdb;
 ```
-###Run the server file(Node.js must be installed on the system)
+### Run the server file(Node.js must be installed on the system)
 ```sql
   Node server.js
+```
