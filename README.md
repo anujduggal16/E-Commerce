@@ -1,6 +1,6 @@
 # E-Commerce
 
-## prerequisite
+## Prerequisites
   
 ### Create database with name shopdb
 ```sql
